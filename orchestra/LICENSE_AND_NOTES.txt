@@ -1,0 +1,8 @@
+Source: VSCO 2 Community Edition (CC0-1.0) — Versilian Studios / Sam Gossner & contributors.
+Upstream: https://github.com/sgossner/VSCO-2-CE
+License: https://github.com/sgossner/VSCO-2-CE/blob/master/LICENSE
+Selected and repackaged WAV samples used by BEAT STUDIO v1.8 Orchestra engine.
+Provenance per file is recorded in SOURCES.csv and instruments.json.
+No attribution is required under CC0; provenance retained for audit.
+This is a limited curated instrument pack: 94 samples / 17 playable groups.
+The sample-loop engine is an approximation and is not identical to recorded true legato.

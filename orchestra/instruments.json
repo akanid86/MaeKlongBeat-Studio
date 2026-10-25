@@ -1,0 +1,1289 @@
+{
+  "title": "BEAT STUDIO Orchestral Starter",
+  "version": "0.1.0",
+  "license": "CC0-1.0",
+  "upstream": "https://github.com/sgossner/VSCO-2-CE",
+  "upstream_ref": "master",
+  "note": "Pitch regions are approximated for web playback; no seamless loops, vibrato envelopes or articulation switching are synthesized by this downloader.",
+  "instruments": [
+    {
+      "id": "solo_violin",
+      "name": "Solo Violin",
+      "family": "strings",
+      "hold": true,
+      "source_folder": "Strings/Solo Violin/Arco Vib",
+      "zones": [
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_G3_p.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_G3_p.wav",
+          "source_sha1": "bc5f7d33610abbc3000f432562f36063f1d3d725",
+          "source_bytes": 2788822,
+          "root_midi": 55,
+          "velocity_layer": "soft",
+          "low_midi": 0,
+          "high_midi": 61,
+          "velocity_min": 1,
+          "velocity_max": 76
+        },
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_G3_f.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_G3_f.wav",
+          "source_sha1": "a09b038528097878ad6b12d30da4ac1a227d5a98",
+          "source_bytes": 2936890,
+          "root_midi": 55,
+          "velocity_layer": "strong",
+          "low_midi": 0,
+          "high_midi": 61,
+          "velocity_min": 77,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_G4_p.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_G4_p.wav",
+          "source_sha1": "7324564c663bf239802020287c217b27c76b8142",
+          "source_bytes": 2594066,
+          "root_midi": 67,
+          "velocity_layer": "soft",
+          "low_midi": 62,
+          "high_midi": 71,
+          "velocity_min": 1,
+          "velocity_max": 76
+        },
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_G4_f.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_G4_f.wav",
+          "source_sha1": "f9c1a5547a7e062eb34ee6bef09e559d3839f46e",
+          "source_bytes": 2366050,
+          "root_midi": 67,
+          "velocity_layer": "strong",
+          "low_midi": 62,
+          "high_midi": 71,
+          "velocity_min": 77,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_E5_p.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_E5_p.wav",
+          "source_sha1": "670865e19772aceab538850ea7a0d1a86024d955",
+          "source_bytes": 2517094,
+          "root_midi": 76,
+          "velocity_layer": "soft",
+          "low_midi": 72,
+          "high_midi": 80,
+          "velocity_min": 1,
+          "velocity_max": 76
+        },
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_E5_f.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_E5_f.wav",
+          "source_sha1": "269658d510e82345227ac10d22f928cfae428c99",
+          "source_bytes": 2365174,
+          "root_midi": 76,
+          "velocity_layer": "strong",
+          "low_midi": 72,
+          "high_midi": 80,
+          "velocity_min": 77,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_C6_p.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_C6_p.wav",
+          "source_sha1": "33bc7e87816637462d6e174da9949eb9b5e45ef4",
+          "source_bytes": 2358906,
+          "root_midi": 84,
+          "velocity_layer": "soft",
+          "low_midi": 81,
+          "high_midi": 90,
+          "velocity_min": 1,
+          "velocity_max": 76
+        },
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_C6_f.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_C6_f.wav",
+          "source_sha1": "89f48f37313800df4c5901dc76b49b1c5c69e396",
+          "source_bytes": 2162774,
+          "root_midi": 84,
+          "velocity_layer": "strong",
+          "low_midi": 81,
+          "high_midi": 90,
+          "velocity_min": 77,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_C7_p.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_C7_p.wav",
+          "source_sha1": "bc1f4c13bb7c9693f7c5ef5a44bfe27463aa8cda",
+          "source_bytes": 2274706,
+          "root_midi": 96,
+          "velocity_layer": "soft",
+          "low_midi": 91,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 76
+        },
+        {
+          "file": "samples/solo_violin/LLVln_ArcoVib_C7_f.wav",
+          "source_path": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_C7_f.wav",
+          "source_sha1": "2348056e211ef9b6d309f3718d8e4e49471f65ce",
+          "source_bytes": 2176486,
+          "root_midi": 96,
+          "velocity_layer": "strong",
+          "low_midi": 91,
+          "high_midi": 127,
+          "velocity_min": 77,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "violin_section",
+      "name": "Violin Section",
+      "family": "strings",
+      "hold": true,
+      "source_folder": "Strings/Violin Section/susVib",
+      "zones": [
+        {
+          "file": "samples/violin_section/VlnEns_susVib_G2_v1.wav",
+          "source_path": "Strings/Violin Section/susVib/VlnEns_susVib_G2_v1.wav",
+          "source_sha1": "e2de84e8b912dbfb8df3efe7b8ee241e2bcfa027",
+          "source_bytes": 2341712,
+          "root_midi": 43,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 45,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/violin_section/VlnEns_susVib_B2_v1.wav",
+          "source_path": "Strings/Violin Section/susVib/VlnEns_susVib_B2_v1.wav",
+          "source_sha1": "c2bdf89eed02c0e7fbb11b52799ac62276787ff8",
+          "source_bytes": 2314360,
+          "root_midi": 47,
+          "velocity_layer": null,
+          "low_midi": 46,
+          "high_midi": 52,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/violin_section/VlnEns_susVib_A3_v1.wav",
+          "source_path": "Strings/Violin Section/susVib/VlnEns_susVib_A3_v1.wav",
+          "source_sha1": "ec84b89a4b93ecdc7e23d0c023b897b6f151bca7",
+          "source_bytes": 1890316,
+          "root_midi": 57,
+          "velocity_layer": null,
+          "low_midi": 53,
+          "high_midi": 62,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/violin_section/VlnEns_susVib_G4_v1.wav",
+          "source_path": "Strings/Violin Section/susVib/VlnEns_susVib_G4_v1.wav",
+          "source_sha1": "81d3994ebbf467cbbc88bb2d2ad0dd94d96e7e04",
+          "source_bytes": 2330236,
+          "root_midi": 67,
+          "velocity_layer": null,
+          "low_midi": 63,
+          "high_midi": 70,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/violin_section/VlnEns_susVib_D5_v1.wav",
+          "source_path": "Strings/Violin Section/susVib/VlnEns_susVib_D5_v1.wav",
+          "source_sha1": "fa455a7f8fe8c5c00b36c8e131bbc340204ae1c8",
+          "source_bytes": 2116352,
+          "root_midi": 74,
+          "velocity_layer": null,
+          "low_midi": 71,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "viola_section",
+      "name": "Viola Section",
+      "family": "strings",
+      "hold": true,
+      "source_folder": "Strings/Viola Section/susvib",
+      "zones": [
+        {
+          "file": "samples/viola_section/ViolaEns_susvib_C2_v1_1.wav",
+          "source_path": "Strings/Viola Section/susvib/ViolaEns_susvib_C2_v1_1.wav",
+          "source_sha1": "b1cfb66c1ab03bdb9adac7e347b427bc61524b94",
+          "source_bytes": 2642360,
+          "root_midi": 36,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 39,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/viola_section/ViolaEns_susvib_G2_v1_1.wav",
+          "source_path": "Strings/Viola Section/susvib/ViolaEns_susvib_G2_v1_1.wav",
+          "source_sha1": "7c6dbafbe1f5de539b5861515f1bf39987e354cb",
+          "source_bytes": 2001644,
+          "root_midi": 43,
+          "velocity_layer": null,
+          "low_midi": 40,
+          "high_midi": 48,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/viola_section/ViolaEns_susvib_F3_v1_1.wav",
+          "source_path": "Strings/Viola Section/susvib/ViolaEns_susvib_F3_v1_1.wav",
+          "source_sha1": "f9e0fa27802046cf9ed1e6b5625b6a815b3c09e8",
+          "source_bytes": 2487818,
+          "root_midi": 53,
+          "velocity_layer": null,
+          "low_midi": 49,
+          "high_midi": 58,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/viola_section/ViolaEns_susvib_E4_v1_1.wav",
+          "source_path": "Strings/Viola Section/susvib/ViolaEns_susvib_E4_v1_1.wav",
+          "source_sha1": "c97e8f4eeffe3fd94afeb8a3d32099105ab270d2",
+          "source_bytes": 2044358,
+          "root_midi": 64,
+          "velocity_layer": null,
+          "low_midi": 59,
+          "high_midi": 69,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/viola_section/ViolaEns_susvib_D5_v1_1.wav",
+          "source_path": "Strings/Viola Section/susvib/ViolaEns_susvib_D5_v1_1.wav",
+          "source_sha1": "57d1de0867673e6861f318c01ed3358ffbff2996",
+          "source_bytes": 2087798,
+          "root_midi": 74,
+          "velocity_layer": null,
+          "low_midi": 70,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "cello_section",
+      "name": "Cello Section",
+      "family": "strings",
+      "hold": true,
+      "source_folder": "Strings/Cello Section/susvib",
+      "zones": [
+        {
+          "file": "samples/cello_section/susvib_C1_v1_1.wav",
+          "source_path": "Strings/Cello Section/susvib/susvib_C1_v1_1.wav",
+          "source_sha1": "ff87d1ae488d87189f33a0d18550d3bcde012f3d",
+          "source_bytes": 2347376,
+          "root_midi": 24,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 29,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/cello_section/susvib_B1_v1_1.wav",
+          "source_path": "Strings/Cello Section/susvib/susvib_B1_v1_1.wav",
+          "source_sha1": "d6a4a2d1a688c6ccb4e1e1a56b878c9c93df468b",
+          "source_bytes": 2372492,
+          "root_midi": 35,
+          "velocity_layer": null,
+          "low_midi": 30,
+          "high_midi": 40,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/cello_section/susvib_A2_v1_1.wav",
+          "source_path": "Strings/Cello Section/susvib/susvib_A2_v1_1.wav",
+          "source_sha1": "76df6b474aff133b2ac9d96bf2466cb6fd865c72",
+          "source_bytes": 2336738,
+          "root_midi": 45,
+          "velocity_layer": null,
+          "low_midi": 41,
+          "high_midi": 50,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/cello_section/susvib_G3_v1_1.wav",
+          "source_path": "Strings/Cello Section/susvib/susvib_G3_v1_1.wav",
+          "source_sha1": "7880157fbb8e57fb0b7a694b8569701bc0d942ea",
+          "source_bytes": 2431598,
+          "root_midi": 55,
+          "velocity_layer": null,
+          "low_midi": 51,
+          "high_midi": 60,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/cello_section/susvib_F4_v1_1.wav",
+          "source_path": "Strings/Cello Section/susvib/susvib_F4_v1_1.wav",
+          "source_sha1": "7f39cccecb392eaa0ff4c94e3607dc2294458a30",
+          "source_bytes": 1922948,
+          "root_midi": 65,
+          "velocity_layer": null,
+          "low_midi": 61,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "double_bass",
+      "name": "Double Bass",
+      "family": "strings",
+      "hold": true,
+      "source_folder": "Strings/Solo Contrabass/SusVib",
+      "zones": [
+        {
+          "file": "samples/double_bass/BKCtbss_SusVib_F#0_v1_rr1.wav",
+          "source_path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_F#0_v1_rr1.wav",
+          "source_sha1": "ddd3f5c1bff906167aa16bee3ceb45589fc32f22",
+          "source_bytes": 1597380,
+          "root_midi": 18,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 21,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/double_bass/BKCtbss_SusVib_C1_v1_rr1.wav",
+          "source_path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_C1_v1_rr1.wav",
+          "source_sha1": "b0698cd7f3deab8320de5bda1d96d1c3443a51b2",
+          "source_bytes": 1835940,
+          "root_midi": 24,
+          "velocity_layer": null,
+          "low_midi": 22,
+          "high_midi": 27,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/double_bass/BKCtbss_SusVib_F#1_v1_rr1.wav",
+          "source_path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_F#1_v1_rr1.wav",
+          "source_sha1": "cb95407f5853c21b4544a117bcca9cf074f45e71",
+          "source_bytes": 1153568,
+          "root_midi": 30,
+          "velocity_layer": null,
+          "low_midi": 28,
+          "high_midi": 33,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/double_bass/BKCtbss_SusVib_C#2_v1_rr1.wav",
+          "source_path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_C#2_v1_rr1.wav",
+          "source_sha1": "7c9dde09e9bc254c0b7523ccce679c69b87a25e3",
+          "source_bytes": 1349416,
+          "root_midi": 37,
+          "velocity_layer": null,
+          "low_midi": 34,
+          "high_midi": 42,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/double_bass/BKCtbss_SusVib_B2_v1_rr1.wav",
+          "source_path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_B2_v1_rr1.wav",
+          "source_sha1": "ec3908bbb75b03c60c5fdfc182761016e90b3a89",
+          "source_bytes": 1246160,
+          "root_midi": 47,
+          "velocity_layer": null,
+          "low_midi": 43,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "harp",
+      "name": "Concert Harp",
+      "family": "strings",
+      "hold": false,
+      "source_folder": "Strings/Harp",
+      "zones": [
+        {
+          "file": "samples/harp/KSHarp_E1_f.wav",
+          "source_path": "Strings/Harp/KSHarp_E1_f.wav",
+          "source_sha1": "483714bd64ecf4947fe70d0ae0da6f2292c958f2",
+          "source_bytes": 4001190,
+          "root_midi": 28,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 38,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/harp/KSHarp_C3_mf.wav",
+          "source_path": "Strings/Harp/KSHarp_C3_mf.wav",
+          "source_sha1": "20e91e167e86132bb16601f682c90444779d8a23",
+          "source_bytes": 1586172,
+          "root_midi": 48,
+          "velocity_layer": null,
+          "low_midi": 39,
+          "high_midi": 56,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/harp/KSHarp_F4_mf.wav",
+          "source_path": "Strings/Harp/KSHarp_F4_mf.wav",
+          "source_sha1": "a1966639b165b623ac533270d616814cbc5389ef",
+          "source_bytes": 1913498,
+          "root_midi": 65,
+          "velocity_layer": null,
+          "low_midi": 57,
+          "high_midi": 74,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/harp/KSHarp_B5_mf.wav",
+          "source_path": "Strings/Harp/KSHarp_B5_mf.wav",
+          "source_sha1": "2d2689e8ca023cd685ed5a29161f3d641f109da9",
+          "source_bytes": 779058,
+          "root_midi": 83,
+          "velocity_layer": null,
+          "low_midi": 75,
+          "high_midi": 92,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/harp/KSHarp_F7_f.wav",
+          "source_path": "Strings/Harp/KSHarp_F7_f.wav",
+          "source_sha1": "2451907b2acc4cdf9b371111c760abc9bb866926",
+          "source_bytes": 332482,
+          "root_midi": 101,
+          "velocity_layer": null,
+          "low_midi": 93,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "One-shot instrument."
+    },
+    {
+      "id": "flute",
+      "name": "Flute",
+      "family": "woodwinds",
+      "hold": true,
+      "source_folder": "Woodwinds/Flute/susvib",
+      "zones": [
+        {
+          "file": "samples/flute/LDFlute_susvib_C3_v1_1.wav",
+          "source_path": "Woodwinds/Flute/susvib/LDFlute_susvib_C3_v1_1.wav",
+          "source_sha1": "50220315ef8ca85e92b8809f6c0e15a0c4954cce",
+          "source_bytes": 2088144,
+          "root_midi": 48,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 52,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/flute/LDFlute_susvib_A3_v1_1.wav",
+          "source_path": "Woodwinds/Flute/susvib/LDFlute_susvib_A3_v1_1.wav",
+          "source_sha1": "1e8972d4e28dbf8b48e348b93c7862f29b0edfab",
+          "source_bytes": 2117124,
+          "root_midi": 57,
+          "velocity_layer": null,
+          "low_midi": 53,
+          "high_midi": 60,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/flute/LDFlute_susvib_E4_v1_1.wav",
+          "source_path": "Woodwinds/Flute/susvib/LDFlute_susvib_E4_v1_1.wav",
+          "source_sha1": "19c052eab97d1e823fd7d8344c05d94dc7dd4733",
+          "source_bytes": 2144718,
+          "root_midi": 64,
+          "velocity_layer": null,
+          "low_midi": 61,
+          "high_midi": 70,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/flute/LDFlute_susvib_E5_v1_1.wav",
+          "source_path": "Woodwinds/Flute/susvib/LDFlute_susvib_E5_v1_1.wav",
+          "source_sha1": "14e407aa2cfd07b98585ebf7963d3c30be6f85dc",
+          "source_bytes": 1586118,
+          "root_midi": 76,
+          "velocity_layer": null,
+          "low_midi": 71,
+          "high_midi": 80,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/flute/LDFlute_susvib_C6_v1_1.wav",
+          "source_path": "Woodwinds/Flute/susvib/LDFlute_susvib_C6_v1_1.wav",
+          "source_sha1": "f98e1ff1bc4d3dd23cb689de548e13bbfd48ebbb",
+          "source_bytes": 1260120,
+          "root_midi": 84,
+          "velocity_layer": null,
+          "low_midi": 81,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "piccolo",
+      "name": "Piccolo",
+      "family": "woodwinds",
+      "hold": true,
+      "source_folder": "Woodwinds/Piccolo/Sus",
+      "zones": [
+        {
+          "file": "samples/piccolo/piccolo_G4_sustain1.wav",
+          "source_path": "Woodwinds/Piccolo/Sus/piccolo_G4_sustain1.wav",
+          "source_sha1": "e2f56b2c8691ccda1d60a2f0eeff73dd7bf23e32",
+          "source_bytes": 1951040,
+          "root_midi": 67,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 69,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/piccolo/piccolo_C5_sustain1.wav",
+          "source_path": "Woodwinds/Piccolo/Sus/piccolo_C5_sustain1.wav",
+          "source_sha1": "512edafd9a2c4825dad35a887eb742bdd161f9b9",
+          "source_bytes": 2219690,
+          "root_midi": 72,
+          "velocity_layer": null,
+          "low_midi": 70,
+          "high_midi": 75,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/piccolo/piccolo_G5_sustain1.wav",
+          "source_path": "Woodwinds/Piccolo/Sus/piccolo_G5_sustain1.wav",
+          "source_sha1": "302dc7f46b3d9d5bb6de189c05333cd19885c131",
+          "source_bytes": 2246120,
+          "root_midi": 79,
+          "velocity_layer": null,
+          "low_midi": 76,
+          "high_midi": 81,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/piccolo/piccolo_C6_sustain1.wav",
+          "source_path": "Woodwinds/Piccolo/Sus/piccolo_C6_sustain1.wav",
+          "source_sha1": "e6b815988705c811e736ecdc00c252195cae7521",
+          "source_bytes": 3309242,
+          "root_midi": 84,
+          "velocity_layer": null,
+          "low_midi": 82,
+          "high_midi": 87,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/piccolo/piccolo_G6_sustain1.wav",
+          "source_path": "Woodwinds/Piccolo/Sus/piccolo_G6_sustain1.wav",
+          "source_sha1": "9509e21a166a0d6ccef2cb5841817685f7c86123",
+          "source_bytes": 2139986,
+          "root_midi": 91,
+          "velocity_layer": null,
+          "low_midi": 88,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "oboe",
+      "name": "Oboe",
+      "family": "woodwinds",
+      "hold": true,
+      "source_folder": "Woodwinds/Oboe/Sus",
+      "zones": [
+        {
+          "file": "samples/oboe/Oboe_Sus_A#2_v1_Main.wav",
+          "source_path": "Woodwinds/Oboe/Sus/Oboe_Sus_A#2_v1_Main.wav",
+          "source_sha1": "d1ee9884155ae8a6f67279452de23713f8f8b4e9",
+          "source_bytes": 4783096,
+          "root_midi": 46,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 49,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/oboe/Oboe_Sus_F3_v1_Main.wav",
+          "source_path": "Woodwinds/Oboe/Sus/Oboe_Sus_F3_v1_Main.wav",
+          "source_sha1": "2e634363e4273a6adfd9df3496db3f265fd921ac",
+          "source_bytes": 1542764,
+          "root_midi": 53,
+          "velocity_layer": null,
+          "low_midi": 50,
+          "high_midi": 57,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/oboe/Oboe_Sus_D4_v1_Main.wav",
+          "source_path": "Woodwinds/Oboe/Sus/Oboe_Sus_D4_v1_Main.wav",
+          "source_sha1": "d96212fefd5d0e4a798a05ef0c9b4be2a3c2370e",
+          "source_bytes": 1747332,
+          "root_midi": 62,
+          "velocity_layer": null,
+          "low_midi": 58,
+          "high_midi": 66,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/oboe/Oboe_Sus_A#4_v1_Main.wav",
+          "source_path": "Woodwinds/Oboe/Sus/Oboe_Sus_A#4_v1_Main.wav",
+          "source_sha1": "13a008ba5705481fe2112af6d0a7a5cbb008892f",
+          "source_bytes": 1855232,
+          "root_midi": 70,
+          "velocity_layer": null,
+          "low_midi": 67,
+          "high_midi": 73,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/oboe/Oboe_Sus_F5_v1_Main.wav",
+          "source_path": "Woodwinds/Oboe/Sus/Oboe_Sus_F5_v1_Main.wav",
+          "source_sha1": "e551ce12b3644639707243f02178f45010c78d1a",
+          "source_bytes": 1652712,
+          "root_midi": 77,
+          "velocity_layer": null,
+          "low_midi": 74,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "clarinet",
+      "name": "Clarinet",
+      "family": "woodwinds",
+      "hold": true,
+      "source_folder": "Woodwinds/Clarinet/susLong",
+      "zones": [
+        {
+          "file": "samples/clarinet/DCClar_susLong_D2_v1_rr1_sum.wav",
+          "source_path": "Woodwinds/Clarinet/susLong/DCClar_susLong_D2_v1_rr1_sum.wav",
+          "source_sha1": "22e4849edce9f5f75473852d71b1a71e75502505",
+          "source_bytes": 806612,
+          "root_midi": 38,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 42,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/clarinet/DCClar_susLong_A#2_v1_rr1_sum.wav",
+          "source_path": "Woodwinds/Clarinet/susLong/DCClar_susLong_A#2_v1_rr1_sum.wav",
+          "source_sha1": "c02251ea67183260dd5f3b4cca97eeb0e8f23bed",
+          "source_bytes": 1825324,
+          "root_midi": 46,
+          "velocity_layer": null,
+          "low_midi": 43,
+          "high_midi": 52,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/clarinet/DCClar_susLong_A#3_v1_rr1_sum.wav",
+          "source_path": "Woodwinds/Clarinet/susLong/DCClar_susLong_A#3_v1_rr1_sum.wav",
+          "source_sha1": "f8db827226f661779d8965737fa0850d8275be9a",
+          "source_bytes": 1599888,
+          "root_midi": 58,
+          "velocity_layer": null,
+          "low_midi": 53,
+          "high_midi": 64,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/clarinet/DCClar_susLong_A#4_v1_rr1_sum.wav",
+          "source_path": "Woodwinds/Clarinet/susLong/DCClar_susLong_A#4_v1_rr1_sum.wav",
+          "source_sha1": "27315505c21685cdc911e3ae30ce8712c712da26",
+          "source_bytes": 1996064,
+          "root_midi": 70,
+          "velocity_layer": null,
+          "low_midi": 65,
+          "high_midi": 74,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/clarinet/DCClar_susLong_F#5_v1_rr1_sum.wav",
+          "source_path": "Woodwinds/Clarinet/susLong/DCClar_susLong_F#5_v1_rr1_sum.wav",
+          "source_sha1": "0e30b7890f8c35943fa4eb693c704ce5c595acec",
+          "source_bytes": 1025344,
+          "root_midi": 78,
+          "velocity_layer": null,
+          "low_midi": 75,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "bassoon",
+      "name": "Bassoon",
+      "family": "woodwinds",
+      "hold": true,
+      "source_folder": "Woodwinds/Bassoon/sus",
+      "zones": [
+        {
+          "file": "samples/bassoon/PSBassoon_A#0_v1_1.wav",
+          "source_path": "Woodwinds/Bassoon/sus/PSBassoon_A#0_v1_1.wav",
+          "source_sha1": "f99b00f4944c8571dabc04683549935e4a81c987",
+          "source_bytes": 1604336,
+          "root_midi": 22,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 27,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/bassoon/PSBassoon_A1_v1_1.wav",
+          "source_path": "Woodwinds/Bassoon/sus/PSBassoon_A1_v1_1.wav",
+          "source_sha1": "cb1109d73a34b69c08b52a2398fb0ba4b775f852",
+          "source_bytes": 1590160,
+          "root_midi": 33,
+          "velocity_layer": null,
+          "low_midi": 28,
+          "high_midi": 38,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/bassoon/PSBassoon_G2_v1_1.wav",
+          "source_path": "Woodwinds/Bassoon/sus/PSBassoon_G2_v1_1.wav",
+          "source_sha1": "1802d35ea36b486169050595296b758b41b3bfc7",
+          "source_bytes": 1509644,
+          "root_midi": 43,
+          "velocity_layer": null,
+          "low_midi": 39,
+          "high_midi": 49,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/bassoon/PSBassoon_G#3_v1_1.wav",
+          "source_path": "Woodwinds/Bassoon/sus/PSBassoon_G#3_v1_1.wav",
+          "source_sha1": "9d5e0ac1c1fafd0b650e249a3fc799b9685b4d38",
+          "source_bytes": 1405324,
+          "root_midi": 56,
+          "velocity_layer": null,
+          "low_midi": 50,
+          "high_midi": 59,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/bassoon/PSBassoon_D#4_v2_1.wav",
+          "source_path": "Woodwinds/Bassoon/sus/PSBassoon_D#4_v2_1.wav",
+          "source_sha1": "1302bf15411e3bc017686c9094c6bfa1563ed176",
+          "source_bytes": 1304912,
+          "root_midi": 63,
+          "velocity_layer": null,
+          "low_midi": 60,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "trumpet",
+      "name": "Trumpet",
+      "family": "brass",
+      "hold": true,
+      "source_folder": "Brass/Trumpet/sus",
+      "zones": [
+        {
+          "file": "samples/trumpet/Sum_SHTrumpet_sus_F2_v1_rr1.wav",
+          "source_path": "Brass/Trumpet/sus/Sum_SHTrumpet_sus_F2_v1_rr1.wav",
+          "source_sha1": "31229c3ab9801808ee11cd278d11247b1c2ef9aa",
+          "source_bytes": 2204420,
+          "root_midi": 41,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 44,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/trumpet/Sum_SHTrumpet_sus_C3_v1_rr1.wav",
+          "source_path": "Brass/Trumpet/sus/Sum_SHTrumpet_sus_C3_v1_rr1.wav",
+          "source_sha1": "efc0c148e06d6cf1b2c5e65efc568635e4fac38f",
+          "source_bytes": 2677040,
+          "root_midi": 48,
+          "velocity_layer": null,
+          "low_midi": 45,
+          "high_midi": 51,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/trumpet/Sum_SHTrumpet_sus_G3_v1_rr1.wav",
+          "source_path": "Brass/Trumpet/sus/Sum_SHTrumpet_sus_G3_v1_rr1.wav",
+          "source_sha1": "129e67aa9df78209517b461e38d8d1176a0e2861",
+          "source_bytes": 3010072,
+          "root_midi": 55,
+          "velocity_layer": null,
+          "low_midi": 52,
+          "high_midi": 60,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/trumpet/Sum_SHTrumpet_sus_F4_v1_rr1.wav",
+          "source_path": "Brass/Trumpet/sus/Sum_SHTrumpet_sus_F4_v1_rr1.wav",
+          "source_sha1": "c14125cf6f506ed3a5d495fee4130381d050b109",
+          "source_bytes": 2442252,
+          "root_midi": 65,
+          "velocity_layer": null,
+          "low_midi": 61,
+          "high_midi": 68,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/trumpet/Sum_SHTrumpet_sus_C5_v1_rr1.wav",
+          "source_path": "Brass/Trumpet/sus/Sum_SHTrumpet_sus_C5_v1_rr1.wav",
+          "source_sha1": "bff7f04cb34938be10dca3793e3bdae722f88aa2",
+          "source_bytes": 2568220,
+          "root_midi": 72,
+          "velocity_layer": null,
+          "low_midi": 69,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "french_horn",
+      "name": "French Horn",
+      "family": "brass",
+      "hold": true,
+      "source_folder": "Brass/F Horn/sus",
+      "zones": [
+        {
+          "file": "samples/french_horn/MOHorn_sus_A0_v1_1.wav",
+          "source_path": "Brass/F Horn/sus/MOHorn_sus_A0_v1_1.wav",
+          "source_sha1": "bec79afe2bde69ed445c52da977b83e31cc81ed7",
+          "source_bytes": 947196,
+          "root_midi": 21,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 24,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/french_horn/MOHorn_sus_D#1_v1_1.wav",
+          "source_path": "Brass/F Horn/sus/MOHorn_sus_D#1_v1_1.wav",
+          "source_sha1": "238de6f129810744e89a22c414daf926e1b55a37",
+          "source_bytes": 1425196,
+          "root_midi": 27,
+          "velocity_layer": null,
+          "low_midi": 25,
+          "high_midi": 32,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/french_horn/MOHorn_sus_D2_v1_1.wav",
+          "source_path": "Brass/F Horn/sus/MOHorn_sus_D2_v1_1.wav",
+          "source_sha1": "e63cadc76d2b3e56ee26ad558e52fd633cc8c4b1",
+          "source_bytes": 2500360,
+          "root_midi": 38,
+          "velocity_layer": null,
+          "low_midi": 33,
+          "high_midi": 43,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/french_horn/MOHorn_sus_C3_v1_1.wav",
+          "source_path": "Brass/F Horn/sus/MOHorn_sus_C3_v1_1.wav",
+          "source_sha1": "e53d2d03f0902c9f3a6add7c6bf51122bcc7d573",
+          "source_bytes": 2519448,
+          "root_midi": 48,
+          "velocity_layer": null,
+          "low_midi": 44,
+          "high_midi": 56,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/french_horn/MOHorn_sus_F4_v1_1.wav",
+          "source_path": "Brass/F Horn/sus/MOHorn_sus_F4_v1_1.wav",
+          "source_sha1": "3061198e82995900230e9ddde1138a076d8dca9f",
+          "source_bytes": 1477536,
+          "root_midi": 65,
+          "velocity_layer": null,
+          "low_midi": 57,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "trombone",
+      "name": "Trombone",
+      "family": "brass",
+      "hold": true,
+      "source_folder": "Brass/Tenor Trombone/sus",
+      "zones": [
+        {
+          "file": "samples/trombone/tenortbn_sus_A#0_v1_1.wav",
+          "source_path": "Brass/Tenor Trombone/sus/tenortbn_sus_A#0_v1_1.wav",
+          "source_sha1": "adf430c94439820bb8876f7208b8f1756eb101c4",
+          "source_bytes": 847440,
+          "root_midi": 22,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 24,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/trombone/tenortbn_sus_D#1_v1_1.wav",
+          "source_path": "Brass/Tenor Trombone/sus/tenortbn_sus_D#1_v1_1.wav",
+          "source_sha1": "3ada83e7586270bb31bd388a0c8236adcc4aa5a4",
+          "source_bytes": 2080020,
+          "root_midi": 27,
+          "velocity_layer": null,
+          "low_midi": 25,
+          "high_midi": 32,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/trombone/tenortbn_sus_D2_v1_1.wav",
+          "source_path": "Brass/Tenor Trombone/sus/tenortbn_sus_D2_v1_1.wav",
+          "source_sha1": "2721e50862bd57ada8245162917fc048e03b061a",
+          "source_bytes": 2733168,
+          "root_midi": 38,
+          "velocity_layer": null,
+          "low_midi": 33,
+          "high_midi": 43,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/trombone/tenortbn_sus_C#3_v1_1.wav",
+          "source_path": "Brass/Tenor Trombone/sus/tenortbn_sus_C#3_v1_1.wav",
+          "source_sha1": "4388462bb1234613e754ad798404cc6b3e0fa792",
+          "source_bytes": 3507148,
+          "root_midi": 49,
+          "velocity_layer": null,
+          "low_midi": 44,
+          "high_midi": 51,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/trombone/tenortbn_sus_F3_v1_1.wav",
+          "source_path": "Brass/Tenor Trombone/sus/tenortbn_sus_F3_v1_1.wav",
+          "source_sha1": "4c6cd39dc8a64bf7517308616a6390cce1e190e5",
+          "source_bytes": 4557044,
+          "root_midi": 53,
+          "velocity_layer": null,
+          "low_midi": 52,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "tuba",
+      "name": "Tuba",
+      "family": "brass",
+      "hold": true,
+      "source_folder": "Brass/Tuba/sus",
+      "zones": [
+        {
+          "file": "samples/tuba/Tuba3_sus_F0_v1_rr1_Mid.wav",
+          "source_path": "Brass/Tuba/sus/Tuba3_sus_F0_v1_rr1_Mid.wav",
+          "source_sha1": "37e4efffdbe853674f4e351c2b8bf74d1b11df42",
+          "source_bytes": 701860,
+          "root_midi": 17,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 22,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/tuba/Tuba3_sus_D#1_v1_rr1_Mid.wav",
+          "source_path": "Brass/Tuba/sus/Tuba3_sus_D#1_v1_rr1_Mid.wav",
+          "source_sha1": "8d33af67acb2eb42166b206e957cd398761acc14",
+          "source_bytes": 1388496,
+          "root_midi": 27,
+          "velocity_layer": null,
+          "low_midi": 23,
+          "high_midi": 30,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/tuba/Tuba3_sus_A#1_v1_rr1_Mid.wav",
+          "source_path": "Brass/Tuba/sus/Tuba3_sus_A#1_v1_rr1_Mid.wav",
+          "source_sha1": "157be46107bde96c8e821d57035ed7c037d61dfd",
+          "source_bytes": 1750600,
+          "root_midi": 34,
+          "velocity_layer": null,
+          "low_midi": 31,
+          "high_midi": 37,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/tuba/Tuba3_sus_F2_v1_rr1_Mid.wav",
+          "source_path": "Brass/Tuba/sus/Tuba3_sus_F2_v1_rr1_Mid.wav",
+          "source_sha1": "ae229d0882e242b64e4b3318bb5262dd8a69e199",
+          "source_bytes": 3020752,
+          "root_midi": 41,
+          "velocity_layer": null,
+          "low_midi": 38,
+          "high_midi": 45,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/tuba/Tuba3_sus_D3_v1_rr1_Mid.wav",
+          "source_path": "Brass/Tuba/sus/Tuba3_sus_D3_v1_rr1_Mid.wav",
+          "source_sha1": "0376412b204d1bdb841d36bf4d9a1030f6b9cda0",
+          "source_bytes": 1692716,
+          "root_midi": 50,
+          "velocity_layer": null,
+          "low_midi": 46,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "For long notes, sustained WAV may require loop-point editing; do not naively loop the whole recording."
+    },
+    {
+      "id": "marimba",
+      "name": "Marimba",
+      "family": "percussion",
+      "hold": false,
+      "source_folder": "Percussion/Marimba",
+      "zones": [
+        {
+          "file": "samples/marimba/Marimba_hit_Outrigger_F1_loud_01.wav",
+          "source_path": "Percussion/Marimba/Marimba_hit_Outrigger_F1_loud_01.wav",
+          "source_sha1": "cc5b73c4c0b50ca64a0c484f17d37e825957de50",
+          "source_bytes": 972392,
+          "root_midi": 29,
+          "velocity_layer": null,
+          "low_midi": 0,
+          "high_midi": 36,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/marimba/Marimba_hit_Outrigger_G2_loud_01.wav",
+          "source_path": "Percussion/Marimba/Marimba_hit_Outrigger_G2_loud_01.wav",
+          "source_sha1": "b73a4b8febfdeb8e86ab13edabd1e663caebd378",
+          "source_bytes": 1855448,
+          "root_midi": 43,
+          "velocity_layer": null,
+          "low_midi": 37,
+          "high_midi": 48,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/marimba/Marimba_hit_Outrigger_F3_loud_01.wav",
+          "source_path": "Percussion/Marimba/Marimba_hit_Outrigger_F3_loud_01.wav",
+          "source_sha1": "646d1490ead56eaf0db10c96ac352c80d3275736",
+          "source_bytes": 1589876,
+          "root_midi": 53,
+          "velocity_layer": null,
+          "low_midi": 49,
+          "high_midi": 62,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/marimba/Marimba_hit_Outrigger_B4_loud_01.wav",
+          "source_path": "Percussion/Marimba/Marimba_hit_Outrigger_B4_loud_01.wav",
+          "source_sha1": "cf36d9cae6614613c17069accbaa46594846c113",
+          "source_bytes": 694454,
+          "root_midi": 71,
+          "velocity_layer": null,
+          "low_midi": 63,
+          "high_midi": 77,
+          "velocity_min": 1,
+          "velocity_max": 127
+        },
+        {
+          "file": "samples/marimba/Marimba_hit_Outrigger_C6_loud_01.wav",
+          "source_path": "Percussion/Marimba/Marimba_hit_Outrigger_C6_loud_01.wav",
+          "source_sha1": "aa3b9670477cf7d6825cb9e6e3c9446acffa95ee",
+          "source_bytes": 472142,
+          "root_midi": 84,
+          "velocity_layer": null,
+          "low_midi": 78,
+          "high_midi": 127,
+          "velocity_min": 1,
+          "velocity_max": 127
+        }
+      ],
+      "note": "One-shot instrument."
+    },
+    {
+      "id": "orchestral_percussion",
+      "name": "Orchestral Percussion",
+      "family": "percussion",
+      "hold": false,
+      "zones": [
+        {
+          "file": "samples/orchestral_percussion/Timpani1_Hit_v3_rr1_Sum.wav",
+          "source_path": "Percussion/Timpani/Timpani1_Hit_v3_rr1_Sum.wav",
+          "source_sha1": "86d8e078c8820d49fd15124fe037cbd667ae8fa2",
+          "source_bytes": 1602676,
+          "root_midi": null,
+          "velocity_layer": null,
+          "id": "timpani_1",
+          "trigger_midi": 41
+        },
+        {
+          "file": "samples/orchestral_percussion/Timpani2_Hit_v3_rr1_Sum.wav",
+          "source_path": "Percussion/Timpani/Timpani2_Hit_v3_rr1_Sum.wav",
+          "source_sha1": "23f38123671e904b64b45c694deec814daff98ce",
+          "source_bytes": 1895164,
+          "root_midi": null,
+          "velocity_layer": null,
+          "id": "timpani_2",
+          "trigger_midi": 43
+        },
+        {
+          "file": "samples/orchestral_percussion/Timpani3_Hit_v3_rr1_Sum.wav",
+          "source_path": "Percussion/Timpani/Timpani3_Hit_v3_rr1_Sum.wav",
+          "source_sha1": "1996b4911a0c0a0d6f8ef7e5efd823fbcc7612ff",
+          "source_bytes": 1608252,
+          "root_midi": null,
+          "velocity_layer": null,
+          "id": "timpani_3",
+          "trigger_midi": 45
+        },
+        {
+          "file": "samples/orchestral_percussion/Timpani4_Hit_v3_rr1_Sum.wav",
+          "source_path": "Percussion/Timpani/Timpani4_Hit_v3_rr1_Sum.wav",
+          "source_sha1": "198b2582307137805b0fccef4e7eb71a4398e953",
+          "source_bytes": 1012976,
+          "root_midi": null,
+          "velocity_layer": null,
+          "id": "timpani_4",
+          "trigger_midi": 47
+        },
+        {
+          "file": "samples/orchestral_percussion/BDrumNewhit_v4_rr1_Sum.wav",
+          "source_path": "Percussion/BDrumNewhit_v4_rr1_Sum.wav",
+          "source_sha1": "2c50b244be4321074ce64fffcf87f8f570634f6e",
+          "source_bytes": 539748,
+          "root_midi": null,
+          "velocity_layer": null,
+          "id": "concert_bass_drum",
+          "trigger_midi": 36
+        },
+        {
+          "file": "samples/orchestral_percussion/Snare2-HitNS_v3_rr1_Sum.wav",
+          "source_path": "Percussion/Snare2-HitNS_v3_rr1_Sum.wav",
+          "source_sha1": "cec57ac1754fafec7a55e041afe815c4976dfcf2",
+          "source_bytes": 243176,
+          "root_midi": null,
+          "velocity_layer": null,
+          "id": "orchestral_snare",
+          "trigger_midi": 38
+        },
+        {
+          "file": "samples/orchestral_percussion/cymbal-crash1_mf_rr1.wav",
+          "source_path": "Percussion/cymbal-crash1_mf_rr1.wav",
+          "source_sha1": "32bdfa92238d510fcd2cbe0f390e3540060146a1",
+          "source_bytes": 1495666,
+          "root_midi": null,
+          "velocity_layer": null,
+          "id": "cymbal_crash",
+          "trigger_midi": 49
+        },
+        {
+          "file": "samples/orchestral_percussion/Triangle3-Hit_v2_rr1_Sum.wav",
+          "source_path": "Percussion/Triangle3-Hit_v2_rr1_Sum.wav",
+          "source_sha1": "d10404330f27f4611b4ea5a3dd87c5fe8d877a25",
+          "source_bytes": 2098660,
+          "root_midi": null,
+          "velocity_layer": null,
+          "id": "triangle",
+          "trigger_midi": 81
+        },
+        {
+          "file": "samples/orchestral_percussion/gongHit_mf.wav",
+          "source_path": "Percussion/gongHit_mf.wav",
+          "source_sha1": "6e90170966e0955ff362264468e4e8db3f921837",
+          "source_bytes": 5998418,
+          "root_midi": null,
+          "velocity_layer": null,
+          "id": "gong",
+          "trigger_midi": 52
+        }
+      ],
+      "note": "Trigger keys are BEAT STUDIO choices; timpani samples here are individual recordings and require mapping refinement."
+    }
+  ]
+}
